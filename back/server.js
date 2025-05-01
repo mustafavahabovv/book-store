@@ -29,7 +29,7 @@ app.use('/cart-items', ShoppingCartRoutes);
 app.use('/wishlist-items', WishlistRoutes);
 
 // Server start function
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 
 connectDB()
     .then(() => {
