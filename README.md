@@ -43,7 +43,7 @@ book-store/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/book-store.git
+git clone https://github.com/mustafavahabovv/book-store.git
 cd book-store
 ```
 
@@ -134,5 +134,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **[Your Name]**  
+Made with ❤️ by **mustafavahabovv**  
 Feel free to contribute, open issues, or suggest improvements!
